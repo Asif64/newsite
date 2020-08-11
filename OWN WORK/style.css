@@ -1,0 +1,184 @@
+body {
+  background-color: #cff6cf;
+  margin: 0;
+  text-align: center;
+  font-family: "Comic Neue", sans-serif;
+  font-size: 150%;
+}
+
+.below {
+  margin-top: 0;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: "Sacramento", sans-serif;
+  color: #519872;
+  font-size: 5.625rem;
+}
+
+h2 {
+  margin-top: 20px;
+  font-family: Sacramento, sans-serif;
+  color: #519872;
+  font-style: oblique;
+  font-size: 4rem;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+}
+
+.middlebin {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+
+.bottombin {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+}
+
+.pro {
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+.topcloud {
+  position: relative;
+  left: 200px;
+  padding-top: 50px;
+}
+
+.copyright {
+  font-size: 1rem;
+}
+
+.skillhead {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.contact {
+  margin-top: 0;
+}
+
+.btn {
+  padding-bottom: 20px;
+}
+
+.Main-Title {
+  margin-bottom: 30px;
+}
+
+.below {
+  font-family: sans-serif;
+  font-size: 3rem;
+  color: #158467;
+}
+
+hr {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 10px dotted grey;
+  width: 80px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #11999E;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #11999E;
+}
+
+a:hover {
+  color: #382933;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+  padding-left: 250;
+}
+
+.skillsimg {
+  float: left;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-right:30px;
+  margin-top:20px;
+}
+.topbin{
+  background-color: #a8e6cf;
+}
+.computerimg {
+  float: right;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-right: 30px;
+  margin-top:20px;
+}
+.skill1{
+  padding-left: 250px;
+  margin-bottom: 0;
+}
+
+.row1{
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color: #065446;
+  padding-top: 20px;
+  margin-top: 50px;
+}
+.copyright{
+  margin-bottom: 0;
+}
+.footer-link1{
+  font-size: 1rem;
+  margin-right: 40px;
+}
+.footer-link2{
+  font-size: 1rem;
+  margin-right: 40px;
+}
+.footer-link3{
+  font-size: 1rem;
+  margin-right: 40px;
+}
+.btn {
+  font-family: 'comic sans ms';
+  color: #FFFFFF !important;
+  font-size: 18px;
+  text-shadow: 1px 1px 0 #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 0 solid #3866A3;
+  background: #158467;
+  background: linear-gradient(to top, #158467, #93CF8D);
+}
+.btn:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(to top, #468CCF, #63B8EE);
+}
+
+.finalrule{
+  margin-bottom: 25px;
+}
